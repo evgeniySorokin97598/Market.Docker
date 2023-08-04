@@ -1,4 +1,4 @@
 {
-  "apiUrl": "http://192.168.133.128:8082/api/",
-  "identetyUrl":"http://192.168.133.128:8082/identety/"
+  "apiUrl": "http://localhost:8082/api/",
+  "identetyUrl": "http://localhost:8082/identety/"
 }
