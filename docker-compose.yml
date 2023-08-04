@@ -30,8 +30,6 @@ services:
   market_front:
     container_name: market_front
     build: ClientApp
-    depends_on:
-      - back
     volumes:
       -  ./assets:/usr/share/nginx/html/assets
       -  ./assets:/etc/nginx/assets
